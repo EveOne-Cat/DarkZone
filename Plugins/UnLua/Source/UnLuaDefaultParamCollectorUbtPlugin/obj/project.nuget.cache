@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Go54isoa0gSNm1Fb/c5FH6NxZk77cwb7W6/+cKWbXBpH6WaFTqsNH3moZWP0Begxz8STFsEieQjLAirIxlwH/g==",
+  "success": true,
+  "projectFilePath": "H:\\UE5.3.2-Project\\DarkZone\\Plugins\\UnLua\\Source\\UnLuaDefaultParamCollectorUbtPlugin\\UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
